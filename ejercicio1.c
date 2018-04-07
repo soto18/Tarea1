@@ -11,7 +11,7 @@ int main()
 	printf("Escribir matricula\n");
 	scanf("%d", &Matricula);
 	
-	printf("Nota1:\n");
+	printf("Nota 1:\n");
 	scanf("%f", &Nota_1);
 	printf("Nota 2:\n");
 	scanf("%f", &Nota_2);
